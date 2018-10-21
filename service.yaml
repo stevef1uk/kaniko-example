@@ -9,7 +9,7 @@ spec:
       build:
         source:
           git:
-            url: https://github.com/mchmarny/simple-app.git
+            url: https://github.com/stevef1uk/kaniko-example.git
             revision: master
         template:
           name: kaniko
