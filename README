@@ -1,2 +1,9 @@
 Example of how to use Kaniko. 
 IMPORTANT: Once cloned exit the docker-secret file and add DockerHub user name and password. Best not to store these in a public GitHub public repo ;-)
+To use kubectl apply -f <file>
+
+Work reading: https://boxboat.com/2018/08/10/building-containers-with-kubernetes-and-knative/
+
+As this was the source of info to create this simple example
+
+
