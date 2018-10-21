@@ -1,0 +1,2 @@
+Example of how to use Kaniko. 
+IMPORTANT: Once cloned exit the docker-secret file and add DockerHub user name and password. Best not to store these in a public GitHub public repo ;-)
